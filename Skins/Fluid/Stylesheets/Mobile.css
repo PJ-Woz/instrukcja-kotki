@@ -11,10 +11,10 @@
 
 	.title-bar-layout a.logo
 	{
-		width: 375px;
-		height: 126px;
-		background: #385a6b url('Images/logo_header-2-main-page.png') no-repeat center center;
-		-pie-background: #385a6b url('Skins/Fluid/Stylesheets/Images/logo_header-2-main-page.png') no-repeat center center;
+		width: 125px;
+		height: 125px;
+		background: #385a6b url('Images/logo_header-2-main-page_3.png') no-repeat center center;
+		-pie-background: #385a6b url('Skins/Fluid/Stylesheets/Images/logo_header-2-main-page_3.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -415,12 +415,12 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 126px;
+		min-height: 125px;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 126px;
+		min-height: 125px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
