@@ -87,8 +87,8 @@
 		margin: 0;
 		width: 375px;
 		height: 126px;
-		background: #385a6b url('Images/logo_header.png') no-repeat center center;
-		-pie-background: #385a6b url('Skins/Fluid/Stylesheets/Images/logo_header.png') no-repeat center center;
+		background: #385a6b url('Images/logo_header-2-main-page.png') no-repeat center center;
+		-pie-background: #385a6b url('Skins/Fluid/Stylesheets/Images/logo_header-2-main-page.png') no-repeat center center;
 	}
 
 	.title-bar .menu-icon span
